@@ -1,0 +1,51 @@
+.container-style{
+    background-color: #FFE7DC;
+}
+.food {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    background-color: #FFF2EC ;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 30px;
+}
+  .btn1,.btn2,.btn3{
+    border-color: #F43127;
+    background-color: #FFF2EC;
+    color: black;
+  }
+  .btn1:hover{
+    border-color: #F43127;
+    background-color: #F43127;
+    color: white;
+  }
+  .btn2:hover{
+    border-color: #F43127;
+    background-color: #F43127;
+    color: white;
+  }
+ .btn3:hover{
+    border-color: #F43127;
+    background-color: #F43127;
+    color: white;
+  }
+  .food-body{
+    background-color: #FFF2EC;
+    text-align: center;
+  }
+.frites{
+    height: 60px;
+    width: 60px;
+}
+.burger{
+    height: 60px;
+    width: 60px;
+}
+.hotdog{
+    height: 60px;
+    width: 60px;
+}
+.bouffe{
+    font-weight: 800;
+}

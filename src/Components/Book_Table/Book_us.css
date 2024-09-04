@@ -1,0 +1,44 @@
+.containerb-style{
+    background-color: #FFE7DC;
+    padding-top: 70px;
+}
+.food-logo{
+    height: 300px;
+    width: 300px;
+}
+.frites-1{
+    width: 50px;
+    height: 50px;
+    border-radius: 45px;
+}
+.first{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+}
+.second{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+}
+.third{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+}
+.monimg{
+    display: flex;
+    align-items: center;
+}
+.letext{
+    margin-left: 25px;
+}
+#item1{
+    font-weight: 750;
+}
+#item2{
+    font-weight: 750;
+}
+#item3{
+    font-weight: 750;
+}

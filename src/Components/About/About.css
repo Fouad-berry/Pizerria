@@ -1,0 +1,52 @@
+.containerd-style{
+    background-color: #FFE7DC;
+    padding-top: 70px;
+}
+#feed{
+    color: red;
+}
+#qualif{
+    color: red;
+}
+.photo{
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    border-style: dotted;
+    border-color: red;
+}
+.manageall{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+}
+.palmares{
+    background-color: #FDD7C6;
+    height: 70px;
+    border-top-right-radius: 70px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+    padding-left: 20px;
+    margin-bottom: 90px;
+}
+.custo{
+    width: 400px;
+    height: 400px;
+}
+.custochef{
+    margin-left: 90px;
+}
+#chefchiffre{
+    font-weight: 700;
+    color: red;
+    font-size: 28px;
+    padding-bottom: 70px;
+}
+.icont{
+font-size: 30px;
+}
+.secblock{
+    flex-grow: 1;
+}

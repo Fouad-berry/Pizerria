@@ -1,0 +1,33 @@
+.containerd-style{
+    background-color: #FFE7DC;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.titlefood{
+    color: red;
+}
+#call{
+    color: red;
+    font-weight: 600;
+}
+#close{
+    color: red;
+    font-weight: 600;
+}
+.blue-select{
+    background-color: #FFE7DC;
+    padding-right: 35px;
+    border-color: brown;
+    border-left-color: none;
+}
+.igroup{
+    background-color: #FFE7DC;
+    border-color: brown;
+}
+.button {
+    margin-top: 10px;
+    background-color: #F43127;
+    color: white;
+    border-style: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

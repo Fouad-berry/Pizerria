@@ -1,0 +1,42 @@
+.containerc-style{
+    background-color: #FFE7DC;
+    padding-top: 70px;
+}
+.firsttext{
+    display: flex;
+    justify-content: center;
+}
+#subtext{
+    display: flex;
+    justify-content: center;
+}
+.book{
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    background-color: #FED9C7 ;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 30px;
+}
+.book-body{
+    background-color: #FDEAE2;
+    text-align: center;
+}
+.bouffe{
+    font-weight: 800;
+}
+.book1{
+    height: 150px;
+    width: 150px;
+}
+#price{
+    color: red;
+    font-weight: 700;
+}
+/* .manage{
+    display: flex;
+    margin-top: -140px;
+    justify-content: center;
+    gap: 0.5rem;
+} */

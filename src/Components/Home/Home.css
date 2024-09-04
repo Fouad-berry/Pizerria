@@ -1,0 +1,49 @@
+.me-auto{
+    margin-left: auto ;
+}
+.custom-navbar{
+    background-color: #FFE7DC;
+}
+.nav-link{
+    font-weight: 600;
+    color: black;
+}
+.title{
+    font-weight: 700;
+    color: red;
+}
+.container-style{
+    background-color: #FFE7DC;
+}
+.col{
+    padding: 0px 20px;
+}
+h1{
+    font-weight: 800;
+    font-size: 30px;
+}
+#surlign{
+    color: #F43127;
+    text-decoration: underline;
+    text-decoration-color: #FCB302;
+}
+.home-logo{
+    height: 400px;
+    width: 370px;
+    border-radius: 200px;
+    padding-bottom: 30px;
+}
+.sub-text{
+    text-align: justify;
+}
+h2{
+    font-weight: none;
+    font-size: 21px;
+}
+.button {
+    background-color: #F43127;
+    color: white;
+    border-style: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
