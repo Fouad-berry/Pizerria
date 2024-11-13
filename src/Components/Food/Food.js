@@ -44,7 +44,6 @@ export const Food = () => {
             <Card.Body className='food-body' >
                 <Card.Title className='bouffe' >HotDog</Card.Title>
                 <Card.Text>
-                There are many vibrations of passage of available, but the majority have suffer.
                 </Card.Text>
                 <Button className='btn3'>See Menu</Button>
             </Card.Body>
